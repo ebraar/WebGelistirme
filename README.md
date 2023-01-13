@@ -1,1 +1,1 @@
-# FrontendEgitimi
+# Web Geliştirme Eğitimi
